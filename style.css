@@ -1,0 +1,101 @@
+*{
+    margin: 0%;
+}
+
+html{
+    font-family: 'Roboto';
+    font-size: 18px;
+    
+}
+
+#nav{
+    text-align: center;
+    font-size: 1rem;
+    font-weight: 400;
+    color: black;
+}
+li{
+    margin: 0.5rem 1rem 0.5rem 1rem;
+    color: black;
+    display: inline-block;
+}
+
+#banner{
+    background-image: url(img/banner.jpg);
+    height: 20rem;
+}
+
+#banner h1{
+    font-size:2.5rem;
+    color:white;
+    padding:5rem 25rem;
+    line-height: 140%
+}
+.belfast{
+    color:yellow;
+}
+.international{
+    color:red;
+}
+.kindergarden{
+
+    color:blue;
+}
+
+#mission{
+    background-color: rgb(255, 233, 100);
+    padding:5rem 24rem;
+    text-align:center;
+}
+#mission h2{
+    font-size: 4rem;
+}
+#about{
+    background-color: rgb(255, 255, 255);
+    text-align: left;
+    margin:10rem 20rem;
+}
+#about h2{
+    font-size: 4rem;
+}
+
+#team{
+    background-color: rgb(255, 82, 61);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-bottom: 5rem;
+}
+#contact{
+    background-color: rgb(34, 60, 136);
+}
+
+#mission h2{
+    text-align: center;
+}
+
+#team h2{
+    text-align: left;
+    margin-left: 15%;
+    margin-top: 15%;
+    padding: 5rem;
+    font-size: 4rem;
+}
+#team p{
+    text-align: center;
+    margin: auto;
+    padding-bottom: 3rem;
+    
+}
+#team img{
+    padding: 2rem;
+}
+
+#contact{
+    color: rgb(255, 255, 255);
+    padding: 5rem 20rem;
+    
+}
+#contact h2{
+    font-size: 4rem;
+    padding: 2rem 0rem;
+}
