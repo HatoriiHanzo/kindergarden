@@ -38,8 +38,7 @@ h1, h2 {
     font-size: 3rem;
 }
 h3 {
-    margin-bottom: 0;
-    line-height: 150%;
+    margin-bottom: 0%;
 }
 p{
     margin: 0;
@@ -99,9 +98,9 @@ section{
 .contact{
     background-color: #223c88;
     color:white;
-    padding: 1rem;
+    padding: 3rem 0rem 6rem 0rem;
 }
 
 .contact-part {
-    padding: 1rem;
+    padding-bottom: 1rem;
 }
